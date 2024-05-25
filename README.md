@@ -5,16 +5,16 @@
 
 This is a simple 3D renderer built using SDL2 library in C++. It renders 3D points and vertices onto a 2D screen.
 
-```markdown
+
 ## Getting Started
 
 1. Clone the repository:
    ```bash
-   git clone <repository_url>
+   git clone Vlad421/SpinningCube
    ```
 2. Navigate to the project directory:
    ```bash
-   cd <project_directory>
+   cd SpinningCube
    ```
 
 ### Prerequisites
